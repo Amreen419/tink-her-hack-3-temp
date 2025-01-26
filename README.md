@@ -91,9 +91,10 @@ For Hardware:
 [Add any extra demo materials/links]
 
 ## Team Contributions
+- [Vani p]: [Offerings] 
 - [Amreen k]: [Back end]
 - [Haifa Hafeez Paravath]: [Front end,styling]
-- [Vani p]: [Offerings] 
+
 
 ---
 Made with ❤️ at TinkerHub
