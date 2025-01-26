@@ -93,7 +93,6 @@ For Hardware:
 ## Team Contributions
 - [Amreen k]: [Back end]
 - [Haifa Hafeez Paravath]: [Front end,styling]
-- [vani]: [offerings]
-
+ [Vani p]: [Offerings]
 ---
 Made with ❤️ at TinkerHub
