@@ -1,4 +1,4 @@
-# [Project Name] 🎯
+# [Doctron: A Mobile Application for Enhancing Healthcare Accessibility and Emergency Response] 🎯
 
 
 ## Basic Details
@@ -63,7 +63,7 @@ For Software:
 For Hardware:
 
 # Schematic & Circuit
-![Circuit](Add your circuit diagram here)
+![Circuit]![proposed system architecture](https://github.com/user-attachments/assets/1f0c88e7-b19c-4c26-b257-fc14363b9fd9)
 *Add caption explaining connections*
 
 ![Schematic](Add your schematic diagram here)
@@ -91,9 +91,9 @@ For Hardware:
 [Add any extra demo materials/links]
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+- [Amreen k]: [Back end]
+- [Haifa Hafeez Paravath]: [Front end,styling]
+- [vani P]: [offerings]
 
 ---
 Made with ❤️ at TinkerHub
