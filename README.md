@@ -64,13 +64,14 @@ For Hardware:
 
 # Schematic & Circuit
 ![Circuit]![proposed system architecture](https://github.com/user-attachments/assets/1f0c88e7-b19c-4c26-b257-fc14363b9fd9)
-*Add caption explaining connections*
+The schematic illustrates the architecture of the Doctron App, a mobile application designed to enhance healthcare accessibility and emergency response. The system begins with the Patient’s Mobile Application, which allows users to book appointments, access online consultations, and send emergency alerts containing their real-time location. The app communicates with the backend using the internet through HTTP requests, enabling seamless data transfer. At the backend, a Database securely stores patient records, appointment schedules, and blood donor information. The Patient Server processes user requests, such as sending location data and emergency alerts, while the Administration Server handles tasks related to healthcare providers, such as managing services and administrative functions. Together, these components provide an efficient, reliable system to deliver healthcare services and improve response times during emergencies.
 
 ![Schematic](Add your schematic diagram here)
 *Add caption explaining the schematic*
 
 # Build Photos
-![Team](Add photo of your team here)
+![Team Digidamsels](![Team members](https://github.com/user-attachments/assets/46921dd3-43cd-43e8-b4cf-a2935ea21991)
+)
 
 
 ![Components](Add photo of your components here)
