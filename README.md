@@ -2,33 +2,33 @@
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: [Digidamsels]
 
 
 ### Team Members
-- Member 1: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Member 1: [Amreen k] - [EKC Technical Campus,Manjeri]
+- Member 2: [Haifa Hafeez Paravath ] - [EKC Technical Campus,Manjeri]
+- Member 3: [Vani P] - [EKC Technical Campus,Manjeri]
 
 ### Hosted Project Link
 [mention your project hosted project link here]
 
 ### Project Description
-[2-3 lines about what your project does]
+[Doctron is a user-friendly healthcare web app designed to simplify medical services. It allows users to book appointments, browse doctor directories, access health tips, and send emergency SOS alerts, ensuring convenient and accessible healthcare for all.]
 
 ### The Problem statement
-[What ridiculous problem are you solving?]
+[Accessing healthcare services can be inconvenient and time-consuming. Doctron simplifies this by offering a platform for easy appointment booking, doctor searches, and emergency SOS support.]
 
 ### The Solution
-[How are you solving it? Keep it fun!]
+[Doctron provides a streamlined solution by offering a user-friendly platform to book appointments, browse doctor directories, access health tips, and send emergency SOS alerts. This ensures quick, convenient, and accessible healthcare services for all users.]
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
+- [HTML,CSS,Javascript]
 - [Frameworks used]
 - [Libraries used]
-- [Tools used]
+- [Visual Studio Code,Google Chrome,GitHub]
 
 For Hardware:
 - [List main components]
@@ -36,9 +36,9 @@ For Hardware:
 - [List tools required]
 
 ### Implementation
-For Software:
+For Software:HTML,CSS,JavaScript,Node.js,Express.js,MySQL / MongoDB,Git,Chrome DevTools,Visual Studio Code
 # Installation
-[commands]
+Node.js,npm,express.js,mySQL/MongoDB,Git
 
 # Run
 [commands]
@@ -47,13 +47,13 @@ For Software:
 For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
+![Screenshot1](![Screenshot 2025-01-26 040239](https://github.com/user-attachments/assets/38d1d3ed-8a12-4bbe-9755-e6efac46a0e9)
 *Add caption explaining what this shows*
 
-![Screenshot2](Add screenshot 2 here with proper name)
+![Screenshot2]![Screenshot 2025-01-26 040346](https://github.com/user-attachments/assets/37cddb0f-a02e-4d58-a2b6-ca6c16c9ec06))
 *Add caption explaining what this shows*
 
-![Screenshot3](Add screenshot 3 here with proper name)
+![Screenshot3](![Screenshot 2025-01-26 040442](https://github.com/user-attachments/assets/ab67378b-06d4-4cab-9d75-372315272cf0))
 *Add caption explaining what this shows*
 
 # Diagrams
