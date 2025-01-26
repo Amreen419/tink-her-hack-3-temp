@@ -1,0 +1,161 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Doctron App</title>
+    <!-- Link to external CSS file -->
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <!-- Header Section -->
+    <header>
+        <div id="header-content">
+            <div>
+                <h1>Welcome to Doctron</h1>
+                <p>Your healthcare, made easy.</p>
+            </div>
+            
+            <!-- Patient Profile Section -->
+            <div id="patient-profile">
+                <img id="profile-photo" src="pic1.jpeg" alt="Patient Photo">
+                <div id="profile-info">
+                    <p id="profile-name">John Doe</p>
+                    <p id="profile-details">Age: 35 | Male</p>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <!-- Main Navigation -->
+    <nav>
+        <ul>
+            <li><a href="#appointments">Appointments</a></li>
+            <li><a href="#doctor-directory">Doctor Directory</a></li>
+            <li><a href="#health-tips">Health Tips</a></li>
+            <li><a href="#sos">SOS</a></li>
+        </ul>
+    </nav>
+
+    <!-- Main Content -->
+    <section id="appointments">
+        <h2>Schedule an Appointment</h2>
+        <form id="appointmentForm">
+            <label for="doctor">Select Doctor:</label>
+            <select id="doctor" name="doctor">
+                <option value="dr_smith">Dr. Smith - Cardiologist</option>
+                <option value="dr_lee">Dr. Lee - General Practitioner</option>
+                <option value="dr_johnson">Dr. Johnson - Dermatologist</option>
+            </select>
+
+            <label for="appointmentDate">Appointment Date:</label>
+            <input type="date" id="appointmentDate" name="appointmentDate">
+
+            <button type="submit">Book Appointment</button>
+        </form>
+    </section>
+
+    <section id="doctor-directory">
+        <h2>Doctor Directory</h2>
+        <p>Browse through our extensive list of medical specialists:</p>
+        <ul>
+            <li>Dr. Smith - Cardiologist</li>
+            <li>Dr. Lee - General Practitioner</li>
+            <li>Dr. Johnson - Dermatologist</li>
+            <li>Dr. Williams - Neurologist</li>
+        </ul>
+    </section>
+
+    <section id="health-tips">
+        <h2>Health Tips</h2>
+        <p>Stay healthy with the following tips:</p>
+        <ul>
+            <li>Drink plenty of water.</li>
+            <li>Get at least 30 minutes of exercise each day.</li>
+            <li>Eat a balanced diet with fruits and vegetables.</li>
+            <li>Get enough sleep and reduce stress.</li>
+        </ul>
+    </section>
+
+    <!-- SOS Section -->
+    <section id="sos">
+        <h2>Emergency SOS</h2>
+        <button id="sosButton" onclick="sendSOS()">Send SOS</button>
+        <p id="statusMessage"></p>
+    </section>
+
+    <footer>
+        <p>Doctron - Enhancing Healthcare Accessibility</p>
+    </footer>
+
+    <!-- Link to external JavaScript file -->
+    <script src="script.js"></script>
+</body>
+</html>
+
+<section id="offerings">
+    <h2>Our Offerings</h2>
+    <div class="offering-item">
+        <img src="pic2.jpeg" alt="Video Consultation" />
+        <h3>Instant Video Consultation</h3>
+        <p>Connect with top doctors online for immediate help and guidance.</p>
+    </div>
+    <div class="offering-item">
+        <img src="pic3.jpg" alt="Find Doctors" />
+        <h3>Find Doctors Near You</h3>
+        <p>Locate experienced doctors and book appointments near your location.</p>
+    </div>
+</section>
+
+<section id="top-specialties">
+    <h2>Find Doctors in Top Specialties</h2>
+    <div class="specialties-slider">
+        <div class="specialty-item">
+            <img src="pic5.jpeg" alt="Dentist" />
+            <h3>Dentist</h3>
+        </div>
+        <div class="specialty-item">
+            <img src="pic6.jpeg" alt="Gynecologist" />
+            <h3>Gynecologist</h3>
+        </div>
+        <div class="specialty-item">
+            <img src="pic7.jpeg" alt="Dietitian" />
+            <h3>Dietitian</h3>
+        </div>
+        <div class="specialty-item">
+            <img src="pic8.jpeg" alt="Physiotherapist" />
+            <h3>Physiotherapist</h3>
+        </div>
+        <div class="specialty-item">
+            <img src="pic9.jpeg" alt="General Surgeon" />
+            <h3>General Surgeon</h3>
+        </div>
+        <div class="specialty-item">
+            <img src="pic10.jpeg" alt="Orthopedist" />
+            <h3>Orthopedist</h3>
+        </div>
+        <div class="specialty-item">
+            <img src="pic11.jpeg" alt="General Physician" />
+            <h3>General Physician</h3>
+        </div>
+        <div class="specialty-item">
+            <img src="pic12.jpeg" alt="Pediatrician" />
+            <h3>Pediatrician</h3>
+        </div>
+        <div class="specialty-item">
+            <img src="pic55.jpeg" alt="Laparoscopy" />
+            <h3>Laparoscopy</h3>
+        </div>
+        <div class="specialty-item">
+            <img src="pic13.jpeg" alt="Gastroenterologist" />
+            <h3>Gastroenterologist</h3>
+        </div>
+    </div>
+</section>
+
+
+<img src="images/dentist.jpg" alt="Dentist" />
+<img src="images/gynecologist.jpg" alt="Gynecologist" />
+
+
+
